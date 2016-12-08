@@ -15,7 +15,7 @@
         android:layout_margin="10dp" >
         <ImageView
             android:layout_width="40dp"
-            android:layout_height="40dp"
+            android:layout_height="50dp"
             android:src="@drawable/count"
             android:id="@+id/imageView"
             android:scaleType="centerCrop"/>
